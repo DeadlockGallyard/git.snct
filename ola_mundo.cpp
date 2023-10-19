@@ -2,6 +2,6 @@
 
 
 int main () {
-	std:cout <<"Olá Mundo Caído Cruel e Feião hgdjgdjgfdh!"<< std::endl;
+	std:cout <<"ZA WARUDO! MUDA MUDA MUDA MUDA MUDA!"<< std::endl;
 	return 0;
 }
